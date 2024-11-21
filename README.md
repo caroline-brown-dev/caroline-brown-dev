@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @caroline-brown-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in open-source projects and creative coding.
+- 🌱 I’m currently learning about data visualization and security tools.
+- 💞️ I’m looking to collaborate on anything fun and challenging!
+- 📫 How to reach me: cline.larval-0r@icloud.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I once accidentally committed my AWS credentials! Oops! 🙃  
 
-<!---
-caroline-brown-dev/caroline-brown-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+**Note to self:**  
+Don't forget to check `legacy-scripts` for that missing key.  
